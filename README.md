@@ -13,3 +13,8 @@ We're striving to create a C# Resource Editor for Windows.
 
 直接运行RisohEditor\\RisohEditor\\bin\\Debug\\RisohEditor.exe
 
+## Concept
+
+<img width="1532" height="1018" alt="image" src="https://github.com/user-attachments/assets/dee96418-a094-4cb8-8869-b7d7a43312a0" />
+
+
