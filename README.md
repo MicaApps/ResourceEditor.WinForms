@@ -7,7 +7,7 @@
 
 ## 目标
 
-We're striving to create a C++ Photo Viewer for Windows.
+We're striving to create a C# Resource Editor for Windows.
 
 直接运行RisohEditor\\RisohEditor\\bin\\Debug\\RisohEditor.exe
 
