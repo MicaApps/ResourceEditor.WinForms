@@ -1,0 +1,11 @@
+E:\Console\MuitiThread\RisohEditor\RisohEditor\bin\Debug\RisohEditor.exe.config
+E:\Console\MuitiThread\RisohEditor\RisohEditor\bin\Debug\RisohEditor.exe
+E:\Console\MuitiThread\RisohEditor\RisohEditor\bin\Debug\RisohEditor.pdb
+E:\Console\MuitiThread\RisohEditor\RisohEditor\obj\Debug\RisohEditor.csproj.AssemblyReference.cache
+E:\Console\MuitiThread\RisohEditor\RisohEditor\obj\Debug\RisohEditor.Properties.Resources.resources
+E:\Console\MuitiThread\RisohEditor\RisohEditor\obj\Debug\RisohEditor.csproj.GenerateResource.cache
+E:\Console\MuitiThread\RisohEditor\RisohEditor\obj\Debug\RisohEditor.csproj.CoreCompileInputs.cache
+E:\Console\MuitiThread\RisohEditor\RisohEditor\obj\Debug\RisohEditor.exe
+E:\Console\MuitiThread\RisohEditor\RisohEditor\obj\Debug\RisohEditor.pdb
+E:\Console\MuitiThread\RisohEditor\RisohEditor\obj\Debug\RisohEditor.exe.config
+E:\Console\MuitiThread\RisohEditor\RisohEditor\obj\Debug\RisohEditor.Form1.resources
