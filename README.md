@@ -5,9 +5,11 @@
 </p>
 
 
-## 目标
+## Object
 
 We're striving to create a C# Resource Editor for Windows.
+
+## Run
 
 直接运行RisohEditor\\RisohEditor\\bin\\Debug\\RisohEditor.exe
 
