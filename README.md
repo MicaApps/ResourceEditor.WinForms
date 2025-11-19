@@ -7,7 +7,7 @@
 
 ## Object
 
-We're striving to create a C# Resource Editor for Windows.
+We're striving to create a PE file  Resource Editor for Windows by WinUI3/C#.
 
 ## Run
 
