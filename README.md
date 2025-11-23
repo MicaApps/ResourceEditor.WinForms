@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/d294c3cb-21b0-4100-a995-b7726522be85" alter="ResourceEditor Icon" align="center"/>
-    <h1 align="center">ResourceEditor.WinUI3</h1>
+    <h1 align="center">ResourceEditor.WinForms</h1>
     <p align="center">A PE File Resource Editor for Windows by WinUI3/C#. </p>
 </p>
 
