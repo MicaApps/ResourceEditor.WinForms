@@ -9,6 +9,8 @@
 
 We're striving to create a PE file  Resource Editor for Windows by WinUI3/C#.
 
+By first converting it to ResourceEditor.WinForms, backend and testing functionalities can be quickly encapsulated. Finally, the frontend is migrated to WinUI3.
+
 ## Run
 
 直接运行RisohEditor\\RisohEditor\\bin\\Debug\\RisohEditor.exe
